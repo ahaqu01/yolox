@@ -14,7 +14,7 @@
 
 **you can use it as submodule**
 
-在自己的项目目录下，git submodule add  https://gitlab.ictidei.cn/band-intel-center/Algorithm-platform/yolox.git
+在自己的项目目录下，git submodule add  https://github.com/ahaqu01/yolox.git
 
 便会在项目目录下下载到yolox相关代码
 
