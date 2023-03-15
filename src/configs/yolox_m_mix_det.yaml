@@ -1,0 +1,5 @@
+num_classes: 1
+depth: 0.67
+width: 0.75
+confthre: 0.001
+nmsthre: 0.7
